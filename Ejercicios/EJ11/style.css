@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.col-sm{
+    background-color: lightseagreen;
+}
+.col-md{
+    background-color: rgb(51, 83, 143);
+}
+.col-lg{
+    background-color: rgb(89, 91, 119);
+}
+.col-xl{
+    background-color: rgb(134, 87, 179);
+}
+
+.row{
+    padding: 0.25rem;
+    gap: 0.25rem;
+}
+
